@@ -8,7 +8,7 @@ class TestLogin:
 
     # @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
     def test_login2(self):
-        assert 1
+        assert 0
 
     # @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
     def test_login3(self):
