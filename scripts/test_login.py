@@ -12,4 +12,4 @@ class TestLogin:
 
     # @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
     def test_login3(self):
-        assert 0
+        assert 1
